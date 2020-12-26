@@ -3,7 +3,7 @@ On-Balance-Volume (OBV) Stock Trading Strategy Using Python
 
 OBV capitalizes on this idea by keeping a running tally of volume when price moves up or down. On up days, volume (e.g., share count) is added to the indicator. On down days, volume is subtracted from the indicator. OBV can be used in any kind of system – trend following/momentum or price reversal.
 
-![Stock Market Signals](https://images-media.currency.com/6e510df9/aacb/5069/9310/bb572a791be2/on_page/obv3.png)
+![Currency](https://i.imgur.com/93Vz77m.png)
 
 # KEY TAKEAWAYS
 - On-balance volume (OBV) is a simple accumulation-distribution tool that tallies up and down volume, creating a smooth indicator line to predict when major market moves might occur based on changes in relative trading volume.
